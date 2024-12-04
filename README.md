@@ -3,6 +3,8 @@
 Este proyecto es una simulación de un juego de ruleta donde los usuarios pueden registrarse, cargar saldo, y realizar apuestas en la ruleta.
 El sistema genera una ruleta aleatoria para determinar el resultado y actualizar el saldo del jugador según el resultado de la apuesta.
 
+Link para visualizar el proyecto:
+https://youtu.be/rWgFUXMxixg
 
 ## Requisitos Técnicos
 
